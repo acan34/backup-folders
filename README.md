@@ -11,8 +11,8 @@ This is the first time I used PowerShell therefore it might not be the most effi
  >PowerShell C:\PathToWhereTheScriptIs\NameOfTheScript.ps1 
 
 If you wish to automate it, you may check the Task Scheduler. Here is one way to open it :
-> 1- WIN + R
-   2- taskschd.msc
-   3- Hit enter
+>1. WIN + R
+>2. taskschd.msc
+>3. Hit enter
 
 ### Enjoy !
